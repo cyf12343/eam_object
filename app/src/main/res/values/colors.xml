@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color><!--黑色 -->
+    <color name="gray">#aaa</color>
+    <color name="light_gray">#EEEEEE</color><!--淡灰色 -->
+    <color name="nomal_button_color">#0F75B4</color>
+    <color name="press_button_color">#0399F0</color>
+</resources>
